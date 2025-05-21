@@ -21,3 +21,6 @@ The original dataset only included December transactions, so I simulated full-ye
 ## 📁 Files Included
 - `Sales_Dashboard.pbix` — Power BI dashboard
 - `Simulated_Full_Year_OnlineRetail_2023.csv` — cleaned dataset
+
+📁 *Download and open this Power BI dashboard locally in Power BI Desktop*  
+[Sales_Data_Analysis_Dashboard.pbix](./Sales_Data_Analysis_Dashboard.pbix)
